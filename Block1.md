@@ -21,3 +21,57 @@
   - [Using Jupyter Notebook to Run Python](#using-jupyter-notebook-to-run-python)
 - [Version Control aka GitHub](#version-control-aka-github)
 - [Commands Used and Outputs](#commands-used-and-outputs)
+
+## Computer Programming and Data Science
+Content goes here.
+
+## Programming Tools for Data Science
+### IDEs
+Content goes here.
+
+### Version Control via Git
+Content goes here.
+
+### GitHub
+Content goes here.
+
+### Markdown
+Content goes here.
+
+## Source-code Editors & IDEs for R & Python
+Content goes here.
+
+## Intro to R Language
+### Assignment Operator
+Content goes here.
+
+### Using Terminal/ R GUI / RStudio
+Content goes here.
+
+### Changing Working Directory
+Content goes here.
+
+### Installing Packages
+Content goes here.
+
+### Getting Help
+Content goes here.
+
+## R Markdown and R Notebook
+Content goes here.
+
+## Intro to Python
+### Using QtConsole to Run Python
+Content goes here.
+
+### Using Spyder to Run Python
+Content goes here.
+
+### Using Jupyter Notebook to Run Python
+Content goes here.
+
+## Version Control aka GitHub
+Content goes here.
+
+## Commands Used and Outputs
+Content goes here.

@@ -3,7 +3,7 @@ If the code works, Dont touch it !!
 
 ## Table of contents
 1. [Example](#example)
-* **[Block 1 - Introduction to Data science](Block 1)**
+2.[Block 1 - Introduction to Data science](#Block 1)
   1. Computer Programming and Data Science
   2. Programming tools for Data science
      1. IDEs

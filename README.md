@@ -2,7 +2,7 @@
 If the code works, Dont touch it !!
 
 ## Table of contents
-1. [Block1](#block1)
+* [Block1](#block1)
    1. Computer Programming and Data Science
    2. Programming tools for Data science
       1. IDEs

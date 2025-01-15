@@ -2,7 +2,8 @@
 If the code works, Dont touch it !!
 
 ## Table of contents
-* **Block 1 - Introduction to Data science**
+1. [Example](#example)
+* **[Block 1 - Introduction to Data science](Block 1)**
   1. Computer Programming and Data Science
   2. Programming tools for Data science
      1. IDEs
@@ -25,7 +26,8 @@ If the code works, Dont touch it !!
      1. Commands used and outputs
 
  * **Block 2 - Structured, Semi-Structured, and Unstructured Data**
- * 
+
+### Block 1
 # Table of Contents
 1. [Example](#example)
 2. [Example2](#example2)

@@ -74,4 +74,32 @@ Content goes here.
 Content goes here.
 
 ## Commands Used and Outputs
-Content goes here.
+##### Step-by-Step Guide to Git Commands
+
+#### 1. Setting up Git Credentials
+Before you start using Git, you need to set your name and email address. These will be attached to every commit you make.
+
+- **Command**:  
+  ```bash
+  git config --global user.name "NAME"
+  git config --global user.email "EMAIL"
+
+What it does:
+Sets your Git username and email address globally for all repositories on your system.
+
+Output:
+(No output, the command is silent)
+
+2. Setting up a New Git Repository
+To start a new Git project, you need to initialize a repository in the directory.
+
+Command:
+
+git init
+
+What it does:
+Initializes an empty Git repository in the current directory.
+
+Output:
+
+Initialized empty Git repository in <path>/.git/

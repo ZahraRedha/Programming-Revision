@@ -23,4 +23,6 @@ If the code works, Dont touch it !!
      3. Using Jupyter Notebook to Run Python
   1. Version Control aka GitHub
      1. Commands used and outputs
- 
+
+ * **Block 2 - Structured, Semi-Structured, and Unstructured Data**
+ * 

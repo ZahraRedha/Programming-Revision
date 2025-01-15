@@ -2,7 +2,7 @@
 If the code works, Dont touch it !!
 
 ## Table of contents
-2. [Block1](#Block-1)
+1. [Block1](#block1)
   1. Computer Programming and Data Science
   2. Programming tools for Data science
      1. IDEs
@@ -27,14 +27,4 @@ If the code works, Dont touch it !!
  * **Block 2 - Structured, Semi-Structured, and Unstructured Data**
 
 ## Block1
-# Table of Contents
-1. [Block1](#block1)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
-
-## Block1
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 

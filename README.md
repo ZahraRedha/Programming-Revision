@@ -24,7 +24,9 @@ If the code works, Dont touch it !!
    1. Version Control aka GitHub
       1. Commands used and outputs
 
- * **Block 2 - Structured, Semi-Structured, and Unstructured Data**
+ *  [Block2](#block2) Structured, Semi-Structured, and Unstructured Data
 
 ## Block1
+
+## Block2
 
